@@ -10,6 +10,5 @@ Administrator:
 ○ Can add and delete categories.
 ○ Can add products from a certain category.
 ○ Will be able to add / delete products.
-○ Any category can have "child" categories. The administrator will be able to create / delete child categories for any category.
 ○ Products can be added in any category.
 As a framework there was used Java Spring MVC along with Hibernate ORM to create the database in mySQL.
